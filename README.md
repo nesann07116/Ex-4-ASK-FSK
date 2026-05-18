@@ -225,10 +225,13 @@ plt.show()
 
 ## OUTPUT WAVEFORM:
 #### ASK:
+
 <img width="978" height="886" alt="image" src="https://github.com/user-attachments/assets/b3f7cbb2-4102-45c4-afdd-f7f06cb6cb3d" />
 
 
 #### FSK:
+
+
 <img width="989" height="985" alt="image" src="https://github.com/user-attachments/assets/15a16cda-75be-4770-93cf-69d194a51acb" />
 
 
